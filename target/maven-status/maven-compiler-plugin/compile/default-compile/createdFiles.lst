@@ -1,0 +1,4 @@
+com\wipro\ProcessLogin.class
+com\wipro\RegistrationController.class
+com\wipro\LoginController.class
+com\wipro\ForgotPasswordController.class

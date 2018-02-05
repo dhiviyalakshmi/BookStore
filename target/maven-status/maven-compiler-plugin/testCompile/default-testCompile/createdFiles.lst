@@ -1,0 +1,8 @@
+com\wipro\ForgotPasswordControllerTest.class
+com\wipro\IntegrationTest.class
+com\wipro\LoginIntegrationTest.class
+com\wipro\ForgotPasswordIntegrationTest.class
+com\wipro\LoginControllerTest.class
+com\wipro\RegistrationIntegrationTest.class
+com\wipro\RegistrationControllerTest.class
+com\wipro\ProcessLoginTest.class
